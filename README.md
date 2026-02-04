@@ -16,10 +16,10 @@
 
 ---
 
-### 🛠 Languages and Tools:
+### 🛠 Technical Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,bash,matlab,pytorch,sklearn,fastapi,tensorflow,docker,mysql,linux,git,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,bash,matlab,pytorch,fastapi,mysql,docker,linux,git,vscode,aws" />
 </p>
 
 ---
