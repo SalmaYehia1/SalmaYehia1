@@ -1,38 +1,32 @@
 # Salma Yehia Ali 🎓
-**Computer and Communications Engineering @ Alexandria University (2027)** *AI Engineer & Systems Developer*
+**Computer and Communications Engineering | Alexandria University** *Specializing in Artificial Intelligence & Systems Architecture*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-yehia-ali/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/salmayehia1/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:es-salma.yehia2027@alexu.edu.eg)
-
----
-
-### 🚀 Professional Profile
-I am a Computer Engineering student (GPA 3.44) with a focused background in **Computer Vision**, **Natural Language Processing**, and **Deep Learning**. My experience ranges from teaching Python to school-aged students to ranking in the **Top 10** of national AI competitions. I am passionate about bridging the gap between high-level AI research and efficient system-level implementation.
+<p align="left">
+  <a href="https://www.linkedin.com/in/salma-yehia-ali/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/salmayehia1/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="mailto:es-salma.yehia2027@alexu.edu.eg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🛠️ Technical Arsenal
+### 📑 Executive Summary
+Dedicated **Computer Engineering candidate (GPA: 3.44/4.0)** with a proven track record in **Machine Learning**, **Computer Vision**, and **Systems Engineering**. Demonstrated technical excellence by ranking in the **Top 10** of the Egypt National AI Competition (MTC-AIC3). Experienced in scaling technical knowledge through engineering roles at M.I.A Robotics and instructional roles at Algorithmics Academy.
 
-| Domain | Technologies |
+---
+
+### 🛠️ Technical Proficiencies
+
+| Domain | Expertises & Tools |
 | :--- | :--- |
-| **Programming** | Python, C, C++, Java, JavaScript, Bash, PHP, MATLAB |
-| **Artificial Intelligence** | PyTorch, Scikit-Learn, Ollama, NLP, Computer Vision (PCA, Eigenfaces) |
-| **Systems & Backend** | Linux/Unix, Multithreading (Pthreads), Docker, MySQL, FastAPI |
-| **Certifications** | **AWS** Cloud Foundations, **AWS** Machine Learning Foundations |
+| **Languages** | Python, C/C++, Java, JavaScript, Bash, MATLAB, PHP, SQL |
+| **Artificial Intelligence** | PyTorch, Scikit-Learn, NLP, Computer Vision (PCA, Semantic Segmentation), Reinforcement Learning |
+| **Engineering** | Operating Systems, Multithreaded Programming (Pthreads), Docker, Design Patterns, UML |
+| **Cloud & Data** | **AWS Academy Graduate** (Cloud & ML Foundations), MySQL, Relational Databases |
 
 ---
 
 
-
-### 💼 Experience Highlights
-* **AI Engineer @ M.I.A Robotics**: Researched and implemented CV/NLP models and completed intensive ML bootcamps.
-* **Coding Instructor @ Algorithmics Academy**: Leading professional coding lessons in Python and Scratch for the next generation of developers.
-* **Head of Media @ Enactus Alexandria**: Led a creative team in digital marketing and graphic design strategies.
-
----
-
-### 📊 Performance Metrics
+### 📊 Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SalmaYehia1&show_icons=true&theme=corporate&rank_icon=github&border_radius=5" alt="Salma's Stats" />
@@ -40,4 +34,6 @@ I am a Computer Engineering student (GPA 3.44) with a focused background in **Co
 </p>
 
 ---
-<p align="center"><i>"Building the future of AI, one commit at a time."</i></p>
+<p align="center">
+  <i>Seeking opportunities to apply rigorous engineering principles to complex AI challenges.</i>
+</p>
